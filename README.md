@@ -1,4 +1,4 @@
-# SecureWay
+# SecureWave
 
 This project is a real-time chat application built with a combination of modern web technologies. It supports public and private messaging, along with real-time user presence tracking. The application allows users to engage in secure, encrypted communication, ensuring that messages remain private between the participants. The chat interface is dynamic and includes features like typing indicators, attachment uploads, and a draggable private chat window.
 
