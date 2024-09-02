@@ -70,12 +70,13 @@ This project is a real-time chat application built with a combination of modern 
 3. Create a `.env.local` file in the root of your project and add the following variables:
 
     ```plaintext
-    MONGODB_URI=your-mongodb-connection-string
     NEXT_PUBLIC_PUSHER_KEY=your-pusher-key
     NEXT_PUBLIC_PUSHER_CLUSTER=your-pusher-cluster
     PUSHER_APP_ID=your-pusher-app-id
     PUSHER_SECRET=your-pusher-secret
     SECRET_KEY=your-encryption-secret
+    MONGODB_URI=your-mongodb-connection-string
+    MONGODB_DBNAME=your-mongodb-database-name
     ```
 
 4. Run the application:
